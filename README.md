@@ -1,2 +1,5 @@
-# vue-demo
-Demo for VUE.js framework.
+Vue.js Demo
+===========  
+
+Demo for Vue.js framework.  
+
